@@ -6,7 +6,7 @@
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}, this is the change in master branch. Second change.')  # Press Ctrl+F8 to toggle the breakpoint.
+    print(f'Hi, {name} this line is changed. This is the change in branch test1.')  # Press Ctrl+F8 to toggle the breakpoint.
 
 
 # Press the green button in the gutter to run the script.
